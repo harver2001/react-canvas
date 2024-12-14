@@ -13,14 +13,16 @@ A simple React application to upload an image, draw a mask, and export the origi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/image-inpainting-widget.git
+   git clone https://github.com/harver2001/react-canvas
 
 
 2. Install Dependencies:
+   ```bash
    npm install
 
 
 3. Run the project:
+   ```bash
    npm start
 
 
